@@ -66,3 +66,10 @@ The final rankings would be based on your private score which will be published 
 * **Keras implementation for Text Classification with more than 2 Inputs (Extracted Features)**
 * **OvR Logistic Regression**
 * **Kfold in Keras**
+
+
+
+
+
+
+0.5246106118
